@@ -4,6 +4,7 @@ This repository contains two main parts:
 
 - **frontend/** → React (or Next.js) application for the client-side
 - **node_backend/** → Node.js + Express backend server
+- **Live Link:** https://legaldocasis.web.app/
 
 Follow the steps below to set up the project locally.
 
